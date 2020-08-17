@@ -1,6 +1,10 @@
 # discordMCserverBot
 A bot that starts a minecraft server locally via discord messages
 
+## Requirements
+ - [mcstatus](https://github.com/Dinnerbone/mcstatus)
+ - [discord.py](https://discordpy.readthedocs.io/en/latest/)
+
 ## Running the bot yourself
 Setting up this bot may seem challenging, and that is because I didn't intend to make it public for everyone to use, so a lot of the parts was coded to fit my own environment only. BUT if you know which arguments to change, i don't see how it wouldn't run on your computer.
 
