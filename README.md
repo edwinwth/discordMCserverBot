@@ -20,7 +20,10 @@ I made a really simple batch file to start the bot called discordbot.bat, just c
 
 ## Bot Commands
 `&server start`  Starts the minecraft server
+
 `&server stop` Stops the minecraft server
+
 `&watchlist enable/disalbe` Enables or disables the watchlist system, if enabled only the users in the watchlist can execute commands
+
 `&watchlist add/remove @user` Adds or Removes a certain user on the list, simply tag the user at the end of the command to specify the user, e.g.: &watchlist add @SomeUserName
 
